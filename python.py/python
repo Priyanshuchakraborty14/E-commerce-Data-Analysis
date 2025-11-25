@@ -1,0 +1,10 @@
+import pandas as pd
+import numpy as np
+from datetime import datetime, timedelta
+import random
+
+# load directly from data folder
+products = pd.read_excel("data/flipkart_com-ecommerce_sample.xls")
+orders_customers = pd.read_excel("data/ecommerce_dataset_10000.xls")
+
+print("Files loaded successfully!")
