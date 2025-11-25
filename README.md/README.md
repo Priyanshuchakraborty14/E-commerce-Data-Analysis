@@ -67,7 +67,6 @@ This packaged workbook contains:
 ## 📸 Dashboard Preview
 https://github.com/Priyanshuchakraborty14/E-commerce-Data-Analysis/blob/main/Tableau_dashboard/E-Commerce%20Sales%20Performance%20Dashboard.png
 
-
 # 🔍 **Key Insights**
 
 - **Electronics** contributes the most revenue but has a **higher return rate**.  
