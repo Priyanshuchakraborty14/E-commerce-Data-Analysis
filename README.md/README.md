@@ -65,7 +65,7 @@ This packaged workbook contains:
 - Fully working dashboard  
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](Tableau_dashboard/E-Commerce Sales Performance Dashboard.png)
+https://github.com/Priyanshuchakraborty14/E-commerce-Data-Analysis/blob/main/Tableau_dashboard/E-Commerce%20Sales%20Performance%20Dashboard.png
 
 
 # 🔍 **Key Insights**
